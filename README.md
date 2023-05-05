@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zahkc
-- 👀 I’m interested in Mobile rom development and linux tool development.
-- 🌱 I’m currently learning Java, Oracle SQL and Go.
-- 💞️ I’m looking to collaborate on UBTouch and Kali Nethunter stuff.
+- 👀 I’m interested in Android linux chroots and linux tool development.
+- 🌱 I’m currently learning Node JS  and React JS.
+- 💞️ I’m looking to collaborate on not much.
 - 📫 How to reach me: Don't!
 
 <!---
