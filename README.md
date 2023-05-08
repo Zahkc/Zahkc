@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @Zahkc
-- 👀 I’m interested in Android linux chroots and linux tool development.
-- 🌱 I’m currently learning Node JS  and React JS.
-- 💞️ I’m looking to collaborate on not much.
-- 📫 How to reach me: Don't!
+       .-.,     ,.-.
+ '-.  /:::\\   //:::\  .-'
+ '-.\|':':' `"` ':':'|/.-'
+ `-./`. .-=-. .-=-. .`\.-`
+   /=- /     |     \ -=\
+  ;   |      |      |   ;
+  |=-.|______|______|.-=|
+  |==  \  0 /_\ 0  /  ==|
+  |=   /'---( )---'\   =|
+   \   \:   .'.   :/   /
+    `\= '--`   `--' =/'
+      `-=._     _.=-'
+           `"""`
 
 <!---
 Zahkc/Zahkc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
